@@ -9,6 +9,8 @@ const app = express();
 
 app.use(cors({origin: 'https://mane004.github.io/'}));
 app.use(bodyParser.json());
+app.options('*', cors());
+app.use(cors());
 
 async function sendEmail(data) {
     let transporter = nodemailer.createTransport({
