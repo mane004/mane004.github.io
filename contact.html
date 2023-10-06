@@ -356,7 +356,7 @@
             };
 
             try {
-                const response = await fetch('https://wardrobegenius-5c6e94f5978d.herokuapp.com/sendEmail', {
+                const response = await fetch('http://localhost:3000/sendEmail', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -376,6 +376,8 @@
             }
         });
     });
+
+
 
 </script>
 <div style="color: transparent; height: 40px"></div>

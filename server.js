@@ -7,10 +7,8 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
-app.use(cors({origin: 'https://mane004.github.io/'}));
+app.use(cors({origin: 'http://localhost:63342'}));
 app.use(bodyParser.json());
-app.options('*', cors());
-app.use(cors());
 
 async function sendEmail(data) {
     let transporter = nodemailer.createTransport({
@@ -42,13 +40,7 @@ app.post('/sendEmail', async (req, res) => {
     }
 });
 
-app.get('/', (req, res) => {
-    res.send('Hello, world!');
-});
-
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server running on port ${PORT}`);
+app.listen(3000, '0.0.0.0', () => {
+    console.log('Server running on http://localhost:63342');
 });
 
