@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d56cdc7-c97f-4a59-b125-480666923f2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/my_node_project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fonts/SuezOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/as.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/chatbg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/clothes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/clothes2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/clothes3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/downloadbg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/fb.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/gp.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/ig.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/iphone.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/logobg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/logowebp.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/tiktok.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/twitter.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/fotos/woman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/our_product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_node_project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/SuezOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/as.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/chatbg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/clothes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/clothes2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/clothes3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/downloadbg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/fb.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/gp.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/ig.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/iphone.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/logobg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/logowebp.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/tiktok.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/twitter.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotos/woman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/our_product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2WNZcMCfUc3QNvZPiPOAoruXULs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Marjan Tomev/WS_Projekte/WardrobeGenius/my_node_project",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d56cdc7-c97f-4a59-b125-480666923f2e" name="Changes" comment="" />
+      <created>1696575079063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696575079063</updated>
+      <workItem from="1696575082050" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
